@@ -9,56 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)]({{ base_path }}/files/CV.pdf){: .btn .btn--primary}
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Master in Economics, Advanced Research Focus (with Distinction)**, Université catholique de Louvain, 2022–2025
+  * Thesis: "[The Impact of Unemployment Benefits in an Economy with Search Frictions and Unemployment-Induced Productivity Loss](https://thesis.dial.uclouvain.be/server/api/core/bitstreams/cf744eb9-9afb-4c8e-a1e0-a1d4a751f674/content)" (17/20)
+* **M.Sc. in Political Science**, University of Copenhagen, 2022
+  * Exchange Program at the University of Wisconsin–Madison, Fall 2021
+* **B.A. in Political Science**, National Taiwan University, 2019
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Primary Field:** Macroeconomics
+* **Secondary Field:** Labor Economics
+* **Interests:** Heterogeneous-Agent Macroeconomics, Unemployment Insurance, Expectation Formation, Applied Macroeconometrics
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research
+======
+* **When Inflation Turns Volatile: Diverging Expectations of Households and Professionals**  
+  Working Paper, with [Nan-Kuang Chen](https://homepage.ntu.edu.tw/~nankuang/) and [Tsung-Hsien Li](https://tsunghsien1124.github.io/)
+* **Who Shows Up: Unemployment Insurance and the Composition of Job Seekers**  
+  Working Paper, with [Tsung-Hsien Li](https://tsunghsien1124.github.io/)
+* **Fiscal Conditions and the Transmission of Monetary Policy to Inflation Expectations**  
+  Work in Progress, with [Nan-Kuang Chen](https://homepage.ntu.edu.tw/~nankuang/) and [Tsung-Hsien Li](https://tsunghsien1124.github.io/)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+See the [Research]({{ base_path }}/research/) page for abstracts.
+
+Presentations
+======
+* 9th HenU/INFER Workshop on Applied Macroeconomics, May 2026
+* AASLE Conference, Dec. 2026
+
+Research Experience
+======
+* **Predoctoral Research Fellow**, Institute of Economics, Academia Sinica, Jul. 2025–Present
+  * Supervisors: [Tsung-Hsien Li](https://tsunghsien1124.github.io/) and [Nan-Kuang Chen](https://homepage.ntu.edu.tw/~nankuang/)
+  * Estimate Markov-switching models in MATLAB and test rational vs. adaptive expectations in R to compare household and professional inflation expectations
+  * Analyze the NY Fed Survey of Consumer Expectations with correlated random effects regressions to study how fiscal perceptions shape the effect of monetary policy on inflation expectations
+  * Solve a continuous-time heterogeneous-agent search model with an implicit finite-difference method to study how unemployment insurance shapes the pool of job seekers
+
+Awards
+======
+* Presidential Award, National Taiwan University (top 5% of class), 2017
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Programming:** MATLAB (proficient), R (proficient), Stata (basic), Python (basic)
+* **Research Methods:** Dynamic Programming (discrete- and continuous-time); Time Series Analysis (SVAR and Markov-switching models); Nonparametric Statistics (kernel smoothing)
