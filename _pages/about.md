@@ -11,7 +11,7 @@ I am a Predoctoral Research Fellow at the [Institute of Economics, Academia Sini
 
 My research is in **macroeconomics** and **labor economics**. I am interested in heterogeneous-agent macroeconomics, unemployment insurance, expectation formation, and applied macroeconometrics.
 
-I hold a Master in Economics (Advanced Research Focus, with Distinction) from the Université catholique de Louvain, an M.Sc. in Political Science from the University of Copenhagen, and a B.A. in Political Science from National Taiwan University.
+I hold a M.A. in Economics with Distinction from the Université catholique de Louvain, an M.Sc. in Political Science from the University of Copenhagen, and a B.A. in Political Science from National Taiwan University.
 
 Research Interests
 ------
