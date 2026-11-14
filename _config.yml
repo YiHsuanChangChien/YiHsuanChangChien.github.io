@@ -23,7 +23,7 @@ repository               : "YiHsuanChangChien/YiHsuanChangChien.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   name             : "Yi-Hsuan Chang Chien" 
   pronouns         : # example: "she/her"  
   bio              : "Predoctoral Research Fellow in Economics" 
