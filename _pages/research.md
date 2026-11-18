@@ -29,7 +29,7 @@ with [Nan-Kuang Chen](https://homepage.ntu.edu.tw/~nankuang/) and [Tsung-Hsien L
 Master's Thesis
 ======
 
-**The Impact of Unemployment Benefits in an Economy with Search Frictions and Unemployment-Induced Productivity Loss** [[WP](https://thesis.dial.uclouvain.be/server/api/core/bitstreams/cf744eb9-9afb-4c8e-a1e0-a1d4a751f674/content)]  
+**The Impact of Unemployment Benefits in an Economy with Search Frictions and Unemployment-Induced Productivity Loss** [[Master's Thesis](https://thesis.dial.uclouvain.be/server/api/core/bitstreams/cf744eb9-9afb-4c8e-a1e0-a1d4a751f674/content)]  
 Université catholique de Louvain, 2025
 
 **Abstract:** This paper examines the impact of unemployment benefits on an economy characterized by search frictions in the labor market and unemployment-induced productivity loss on ex ante homogeneous workers facing idiosyncratic unemployment risks by building an extension on Krusell et al. (2010). The analysis is framed as a continuous-time dynamic programming problem, with the solution implemented using the finite-difference method outlined in Achdou et al. (2022). The results indicate that increasing unemployment benefits consistently improves welfare compared to the baseline scenario with a 1% payroll tax. However, this welfare improvement is accompanied by a significant rise in the variances of individual asset holdings and consumption levels. Furthermore, the analysis reveals that in the extension incorporating unemployment-induced productivity loss, firm’s profits and filled job values are higher compared to the original Krusell et al. (2010) framework.
