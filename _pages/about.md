@@ -20,6 +20,12 @@ Research Interests
 - Expectation Formation
 - Applied Macroeconometrics
 
+Outside Research
+------
+Outside of research, I enjoy trekking in the mountains.
+
+<img src="/images/trekking.jpg" alt="Stone cairns on a high mountain pass under a blue sky" style="width: 100%; max-width: 700px; border-radius: 8px;">
+
 Contact
 ------
 Email: [ccyh@as.edu.tw](mailto:ccyh@as.edu.tw)
