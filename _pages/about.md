@@ -22,7 +22,7 @@ Research Interests
 
 Outside Research
 ------
-Outside of research, I enjoy trekking in the mountains.
+Outside of research, I enjoy trekking in the mountains. More photos on the [Trekking](/trekking/) page.
 
 <img src="/images/trekking.jpg" alt="Stone cairns on a mountain pass in Markha Valley, Ladakh" style="width: 100%; max-width: 700px; border-radius: 8px;">
 <br><em>Markha Valley, Ladakh, India, 2026</em>
